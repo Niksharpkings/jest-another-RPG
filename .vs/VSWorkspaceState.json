@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\lib"
+    "\\lib",
+    "\\lib\\__mocks__"
   ],
-  "SelectedNode": "\\lib\\Potion.js",
+  "SelectedNode": "\\lib\\Player.js",
   "PreviewInSolutionExplorer": false
 }
